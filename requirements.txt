@@ -37,7 +37,7 @@ click-plugins==1.1.1
 click-repl==0.2.0
 clinner==1.12.3
 colorlog==3.2.0
-command-not-found==0.3
+command-not-found
 confluent-kafka==1.9.2
 confusable-homoglyphs==3.2.0
 coreapi==2.3.3
