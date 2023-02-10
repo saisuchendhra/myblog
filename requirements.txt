@@ -245,7 +245,7 @@ types-six==1.16.10
 types-toml==0.10.4
 types-urllib3==1.26.9
 typing_extensions==4.1.1
-ubuntu-advantage-tools==27.12
+
 ufw==0.36.1
 unattended-upgrades==0.1
 uritemplate==3.0.1
