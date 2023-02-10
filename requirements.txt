@@ -247,7 +247,7 @@ types-urllib3==1.26.9
 typing_extensions==4.1.1
 
 
-unattended-upgrades==0.1
+
 uritemplate==3.0.1
 urllib3==1.26.5
 via==0.0.2
