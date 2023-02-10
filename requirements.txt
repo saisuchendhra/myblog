@@ -103,6 +103,7 @@ graphene-types==0.15.1
 graphql-core==2.3.1
 graphql-relay==2.0.1
 grpcio==1.36.1
+gunicorn==20.1.0
 gyp==0.1
 h11==0.13.0
 health-check==3.4.1
@@ -167,6 +168,7 @@ proto-plus==1.19.0
 protobuf==3.17.3
 psutil==5.9.1
 psycopg2==2.9.3
+psycopg2-binary==2.9.5
 ptyprocess==0.6.0
 py==1.11.0
 pyarrow==6.0.1
